@@ -1,7 +1,7 @@
 # Front-end
 ---
-# 프론트엔드 스터디
-### 노트 정리 : [Frontend :Note](https://www.notion.so/2023-FrontEnd-36b6d09841a545e18b9a2589b0e75bf0)
+# 2023-Summer 프론트엔드 스터디
+### 노트 정리 : [FrontEnd :Notion Note](https://www.notion.so/2023-FrontEnd-36b6d09841a545e18b9a2589b0e75bf0)
 
 <br>
 
